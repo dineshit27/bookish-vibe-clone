@@ -1,0 +1,1 @@
+// Globe animation removed
